@@ -10,7 +10,7 @@ from PIL import Image
 # ============================================================
 
 st.set_page_config(
-    page_title="PragyanAI - QR Code Generator & Decoder",
+    page_title="Shivasharanappa - QR Code Generator & Decoder",
     page_icon="🔳",
     layout="centered"
 )
