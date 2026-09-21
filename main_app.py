@@ -20,7 +20,7 @@ st.set_page_config(
 # HEADER
 # ============================================================
 
-st.title("PragyanAI- QR Code Generator & Decoder")
+st.title("Shivasharanappa- QR Code Generator & Decoder")
 
 st.write(
     "Generate a QR Code from a URL or information, "
